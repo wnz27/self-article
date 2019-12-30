@@ -15,6 +15,8 @@ Original works
     - []()
 - 设计模式相关，python实现，个人学习总结
     - []()
+- 数据库相关
+    - [MongoDB安装配置方法](./数据库相关/MongoDB安装配置方法.md)
 - 翻译相关
     - [The little redis book]()
 - 书籍推荐，要点总结有时间会更新
