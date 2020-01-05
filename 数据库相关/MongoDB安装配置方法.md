@@ -2,7 +2,7 @@
 1. 首先官网下载包，选定好自己的版本，应该是tgz格式
 2. 解压缩，把**解压后的件夹**放在自己想放的路径下，比如这个路径是A（绝对路径，如xxxx/xxxx/xxxx）
 3. 可以看到这个文件夹下有个bin文件夹，里面有很多脚本，最常用的就是mongo和mongod，我们需要在这个文件夹下建立一个配置文件，命名为mongodb.config，两个方法：
-- terminal中，cd到bin的目录下，touch一个配置文件，在用vi命令编辑文件
+- terminal中，cd到bin的目录下，touch一个配置文件(命名为上面的那个名称)，在用vi命令编辑文件
 - 不管你在哪个目录下，直接在terminal中执行`vi A/bin/mongodb.config`，A是啥请看步骤2
 4. 然后想让配置生效，去bin目录下，执行`mongod --config A/bin/mongodb.config`，这时候到某一行会卡住不动，这就是连接成功了
 5. 打开另一个终端窗口，输入`mongo`，出现`>`输入`db.version()`，弹出版本，说明成功了
