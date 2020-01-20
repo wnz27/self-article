@@ -15,10 +15,12 @@
 
 ### 数据库相关
 - [MongoDB安装配置方法](./数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./数据库相关/MongoDB/mongodb.pdf)文章编写
+- [终止redis-server的方法](./数据库相关/redis/终止redis-server方法.md)
 
 ### 技术杂篇
 - [解决Mac安装应用系统提示已损坏的问题](./技术杂篇/solve_broken.md)
 - [vscode因权限阻止更新解决办法](./技术杂篇/vs_code.md)
+- [【mac下使用命令工具路径问题万能解决办法】](./技术杂篇/mac下使用命令工具路径问题万能解决办法.md)
 
 ### 翻译相关
 - [深入python3](./translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
