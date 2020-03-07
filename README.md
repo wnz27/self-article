@@ -1,3 +1,11 @@
+<!--
+ * @Author: 27
+ * @LastEditors: 27
+ * @Date: 2019-12-14 10:29:50
+ * @LastEditTime: 2020-03-07 16:38:25
+ * @FilePath: /self-article/README.md
+ * @description: type some description
+ -->
 # self-article
 >Original works 个人一些文章展示
 
@@ -22,6 +30,7 @@
 - [vscode因权限阻止更新解决办法](./技术杂篇/vs_code.md)
 - [【mac下使用命令工具路径问题万能解决办法】](./技术杂篇/mac下使用命令工具路径问题万能解决办法.md)
 - [pip加速设置](./技术杂篇/pip加速设置.md)
+- [jwt认证](./技术杂篇/jwt认证.py)
 
 ### 翻译相关
 - [深入python3](./translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
