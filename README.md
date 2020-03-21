@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-14 10:29:50
- * @LastEditTime: 2020-03-21 09:47:27
+ * @LastEditTime: 2020-03-21 13:51:41
  * @FilePath: /self-article/README.md
  * @description: type some description
  -->
@@ -27,7 +27,7 @@
     - [jwt认证](./技术杂篇/jwt认证.py)
 - Python相关
     - [pip加速设置](./技术杂篇/python相关/pip加速设置.md)
-    - [GIL进程以及线程](/Users/fzk27/fzk27/self-article/技术杂篇/python相关/GIL进程以及线程.md)
+    - [GIL进程以及线程](./技术杂篇/python相关/GIL进程以及线程.md)
 
 ### 翻译相关
 - [深入python3](./translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
