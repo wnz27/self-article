@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-03-21 09:45:31
- * @LastEditTime: 2020-03-21 13:38:32
+ * @LastEditTime: 2020-03-21 13:54:57
  * @FilePath: /self-article/技术杂篇/python相关/GIL进程以及线程.md
  * @description: type some description
  -->
@@ -93,4 +93,7 @@ CPU，这就是多线程在IO密集型程序里的优势。
 cpython解释器不适合做CPU密集型程序，因为CPU密集型程序基本每时每刻都要CPU参与计算，不会有
 等待时间。
 
-
+## 补充说明
+GIL存在的原因：
+1. 规避race condition
+2. cPython 大量使用C语言库，大部分C语言都不是原生线程安全的（线程安全会降低性能和增加复杂度）
