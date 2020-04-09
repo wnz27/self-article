@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-14 10:29:50
- * @LastEditTime: 2020-03-25 09:16:52
+ * @LastEditTime: 2020-04-01 11:19:31
  * @FilePath: /self-article/README.md
  * @description: type some description
  -->
@@ -15,10 +15,6 @@
 - [白话计算机网络--自底向上--数据链路层[2]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[2].md)
 - [白话计算机网络--自底向上--数据链路层[3]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[3].md)
 
-### 数据库相关
-- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
-- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
-
 ### 技术杂篇
 - 其他
     - [解决Mac安装应用系统提示已损坏的问题](./content/技术杂篇/solve_broken.md)
@@ -28,6 +24,13 @@
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
+
+### 数据库相关
+- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
+- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
+
+### 面试相关
+- [计算机网络面试题总结](./content/面试积累/计算机网络面试题总结.md)
 
 ### 翻译相关
 - [深入python3](./content/translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./content/translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
