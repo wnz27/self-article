@@ -1,6 +1,14 @@
+<!--
+ * @Author: 27
+ * @LastEditors: 27
+ * @Date: 2019-12-31 06:56:55
+ * @LastEditTime: 2020-04-10 18:23:42
+ * @FilePath: /self-article/content/数据库相关/MongoDB/MongoDB安装配置方法.md
+ * @description: type some description
+ -->
 ## 基于Mac的安装
 1. 首先官网下载包，选定好自己的版本，应该是tgz格式
-2. 解压缩，把**解压后的件夹**放在自己想放的路径下，比如这个路径是A（绝对路径，如xxxx/xxxx/xxxx）
+2. 解压缩，把**解压后的文件夹**放在自己想放的路径下，比如这个路径是A（绝对路径，如xxxx/xxxx/xxxx）
 3. 可以看到这个文件夹下有个bin文件夹，里面有很多脚本，最常用的就是mongo和mongod，我们需要在这个文件夹下建立一个配置文件，命名为mongodb.config，两个方法：
 - terminal中，cd到bin的目录下，touch一个配置文件(命名为上面的那个名称)，在用vi命令编辑文件
 - 不管你在哪个目录下，直接在terminal中执行`vi A/bin/mongodb.config`，A是啥请看步骤2
