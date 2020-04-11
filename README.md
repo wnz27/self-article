@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-14 10:29:50
- * @LastEditTime: 2020-04-01 11:19:31
+ * @LastEditTime: 2020-04-10 23:05:12
  * @FilePath: /self-article/README.md
  * @description: type some description
  -->
@@ -15,12 +15,16 @@
 - [白话计算机网络--自底向上--数据链路层[2]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[2].md)
 - [白话计算机网络--自底向上--数据链路层[3]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[3].md)
 
+### Docker相关
+- []()
+
 ### 技术杂篇
 - 其他
     - [解决Mac安装应用系统提示已损坏的问题](./content/技术杂篇/solve_broken.md)
     - [vscode因权限阻止更新解决办法](./content/技术杂篇/vs_code.md)
     - [【mac下使用命令工具路径问题万能解决办法】](./content/技术杂篇/mac下使用命令工具路径问题万能解决办法.md)
     - [jwt认证](./content/技术杂篇/jwt认证.py)
+    - [软件开发中的CI/CD](./content/技术杂篇/软件开发中的CI和CD.md)
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
