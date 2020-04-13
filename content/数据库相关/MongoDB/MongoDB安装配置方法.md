@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-31 06:56:55
- * @LastEditTime: 2020-04-10 18:23:42
+ * @LastEditTime: 2020-04-13 11:11:09
  * @FilePath: /self-article/content/数据库相关/MongoDB/MongoDB安装配置方法.md
  * @description: type some description
  -->
@@ -12,6 +12,9 @@
 3. 可以看到这个文件夹下有个bin文件夹，里面有很多脚本，最常用的就是mongo和mongod，我们需要在这个文件夹下建立一个配置文件，命名为mongodb.config，两个方法：
 - terminal中，cd到bin的目录下，touch一个配置文件(命名为上面的那个名称)，在用vi命令编辑文件
 - 不管你在哪个目录下，直接在terminal中执行`vi A/bin/mongodb.config`，A是啥请看步骤2
+- 添加这行指定数据存放位置：`dbpath=PATH_TO_WHERE_YOU_WANT_TO_STORE_YOUR_DATABASE_FILES`,
+比如说：windows:`dbpath=c:\mongodb\data`或者linux系统：`dbpath=/var/ lib/mongodb/data`
+只要你想在哪就在哪。
 4. 然后想让配置生效，去bin目录下，执行`mongod --config A/bin/mongodb.config`，这时候到某一行会卡住不动，这就是连接成功了
 5. 打开另一个终端窗口，输入`mongo`，出现`>`输入`db.version()`，弹出版本，说明成功了
 
