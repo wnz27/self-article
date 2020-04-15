@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-04-13 22:11:05
- * @LastEditTime: 2020-04-15 01:08:13
+ * @LastEditTime: 2020-04-16 01:40:30
  * @FilePath: /self-article/content/work_record/work_thk.md
  * @description: type some description
  -->
@@ -50,6 +50,16 @@ git 时只用git push即可，防止push到其他分支
 zsh 的安装配置使用
 
 #### 2020.4.15 
-写model/helios的Banner的测试，提升一下test的覆盖率
+目标提升一下test的覆盖率，先从了解teacher，班级，学生开始
+
+熟悉baseDocument模块，熟悉clazz模块，并且针对模块写了方法简介
+
+补充creat_clazz的模块测试，针对这个方法的测试覆盖完全
+
+晚上浏览自动化测试相关文章
+
+#### 2020.4.16
+
+
 
 
