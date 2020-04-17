@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-04-13 22:11:05
- * @LastEditTime: 2020-04-16 23:12:12
+ * @LastEditTime: 2020-04-17 16:54:53
  * @FilePath: /self-article/content/work_record/work_thk.md
  * @description: type some description
  -->
@@ -66,11 +66,20 @@ zsh 的安装配置使用
 完善调研报告
 
 #### 2020.4.17
-继续熟悉项目代码
+继续熟悉项目代码，
 
-mongoengine 文档
+selenium驱动安装相关问题
 
-《tornado instruction》
+selenium使用简易文档
+
+selenium集成demo
+
+
+#### 2020.4.18-4.19,周末
+<!-- mongoengine 文档 -->
+<!-- 《tornado instruction》 -->
+<!-- vim -->
+<!-- docker -->
 
 
 
