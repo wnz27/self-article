@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-04-13 22:11:05
- * @LastEditTime: 2020-04-16 01:40:30
+ * @LastEditTime: 2020-04-16 23:12:12
  * @FilePath: /self-article/content/work_record/work_thk.md
  * @description: type some description
  -->
@@ -59,6 +59,20 @@ zsh 的安装配置使用
 晚上浏览自动化测试相关文章
 
 #### 2020.4.16
+项目model的测试覆盖率提升到70%
+
+浏览完《python自动化测试实战》，大致完成调研
+
+完善调研报告
+
+#### 2020.4.17
+继续熟悉项目代码
+
+mongoengine 文档
+
+《tornado instruction》
+
+
 
 
 
