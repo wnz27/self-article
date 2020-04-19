@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-04-13 22:11:05
- * @LastEditTime: 2020-04-17 16:54:53
+ * @LastEditTime: 2020-04-19 09:29:58
  * @FilePath: /self-article/content/work_record/work_thk.md
  * @description: type some description
  -->
@@ -70,9 +70,9 @@ zsh 的安装配置使用
 
 selenium驱动安装相关问题
 
-selenium使用简易文档
+selenium使用简易文档，未完成
 
-selenium集成demo
+selenium集成demo，未完成
 
 
 #### 2020.4.18-4.19,周末
@@ -80,9 +80,7 @@ selenium集成demo
 <!-- 《tornado instruction》 -->
 <!-- vim -->
 <!-- docker -->
-
-
-
-
-
+vue基础学习
+selenium使用简易文档
+selenium集成demo
 
