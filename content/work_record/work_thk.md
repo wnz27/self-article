@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-04-13 22:11:05
- * @LastEditTime: 2020-04-19 09:29:58
+ * @LastEditTime: 2020-04-20 23:08:42
  * @FilePath: /self-article/content/work_record/work_thk.md
  * @description: type some description
  -->
@@ -83,4 +83,7 @@ selenium集成demo，未完成
 vue基础学习
 selenium使用简易文档
 selenium集成demo
+
+#### 2020.4.20
+项目自动化测试框架搭建
 
