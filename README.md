@@ -29,6 +29,7 @@
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
+    - [项目中版本管理的git使用技巧](./content/技术杂篇/项目中版本管理的git使用技巧.md)
 
 ### 数据库相关
 - [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
