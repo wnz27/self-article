@@ -1,4 +1,12 @@
 <!--
+ * @Author: 27
+ * @LastEditors: 27
+ * @Date: 2020-05-18 20:38:52
+ * @LastEditTime: 2020-05-31 01:39:38
+ * @FilePath: /self-article/content/技术杂篇/项目工程相关/项目中版本管理的git使用技巧.md
+ * @description: type some description
+--> 
+<!--
 * @UpdateTime : 2020/4/26 2:48 下午
 * @description: type some description
 -->
@@ -48,4 +56,23 @@
 - 当执行 `git checkout .` 或者 `git checkout -- <file>` 命令时，会用暂存区全部或指定的文件替换工作区的文件。这个操作很危险，会清除工作区中未添加到暂存区的改动。
 - 当执行 `git checkout HEAD .` 或者 `git checkout HEAD <file>` 命令时，会用 HEAD 指向的 master 分支中的全部或者部分文件替换暂存区和以及工作区中的文件。这个命令也是极具危险性的，因为不但会清除工作区中未提交的改动，也会清除暂存区中未提交的改动。
 
+#### cherry-pick在工作中的使用
+##### 概念
+这个字面可能完全看不出它在干什么，所以简单解释一下：
 
+首先比如你在分支A上提交了三次，假设三次的commit号是：1，2，3
+
+但是如果你需要在另一个分支B上复现这三次提交怎么办？
+
+就可以用cherry-pick把这3次的改动接到B上。比如这样：
+```
+# 先把分支切到B上
+然后使用如下命令：
+git cherry-pick 1 2 3
+```
+这样A上的1，2，3这三次提交会加到B上作为B的三次提交。
+
+##### 实际情况
+概念解释完了，实际有什么用呢？
+
+一、工作中我遇见过这样的问题
