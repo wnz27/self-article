@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2020-05-18 20:38:52
- * @LastEditTime: 2020-05-31 02:46:34
+ * @LastEditTime: 2020-07-19 20:46:41
  * @FilePath: /self-article/content/技术杂篇/项目工程相关/项目中版本管理的git使用技巧.md
  * @description: type some description
 --> 
@@ -98,3 +98,7 @@ git checkout -b prod-1.1 prod-1.0
 # 做完上一步就在新的分支prod-1.1上了，然后把dev的某些提交接过来
 git cherry-pick c1 c2 c3
 ```
+
+
+
+[回目录](../../../../README.md)
