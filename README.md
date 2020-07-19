@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-14 10:29:50
- * @LastEditTime: 2020-04-10 23:05:12
+ * @LastEditTime: 2020-07-19 20:44:17
  * @FilePath: /self-article/README.md
  * @description: type some description
  -->
@@ -30,7 +30,7 @@
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
-    - [项目中版本管理的git使用技巧](./content/技术杂篇/项目中版本管理的git使用技巧.md)
+    - [项目中版本管理的git使用技巧](./content/技术杂篇/项目工程相关/项目中版本管理的git使用技巧.md)
 
 ### 数据库相关
 - [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
