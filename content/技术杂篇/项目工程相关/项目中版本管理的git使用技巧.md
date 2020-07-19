@@ -99,6 +99,16 @@ git checkout -b prod-1.1 prod-1.0
 git cherry-pick c1 c2 c3
 ```
 
+#### 其他命令
+- git merge --no-ff 分支名A
+把A合并到当前分支，并且在看历史时会显示A的分叉出去的提交，可读性会更好。
 
+
+## zsh 相关
+#### 常用快捷键
+- gco 分支名 = git check out 分支名    切换分支
+- gc == git commit     提交改动，进入vim编辑界面，界面可看到哪些文件改动了
+- gp == git push       推送远端
+- glola  查看所有分支提交历史，以及各种合并信息
 
 [回目录](../../../README.md)
