@@ -18,6 +18,14 @@
 ### 算法相关练习小结
 - [缓存置换算法小结](./content/算法相关/缓存相关/缓存置换算法小结.md)
 
+### 数据库相关
+- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
+- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
+
+### 工作相关
+- [项目工程化的思考与总结](https://github.com/geeknical/projectized-coding)
+- [工作反思](./content/工作相关/反思.md)
+
 ### Docker相关
 - []()
 
@@ -27,28 +35,25 @@
     - [vscode因权限阻止更新解决办法](./content/技术杂篇/vs_code.md)
     - [【mac下使用命令工具路径问题万能解决办法】](./content/技术杂篇/mac下使用命令工具路径问题万能解决办法.md)
     - [jwt认证](./content/技术杂篇/jwt认证.py)
-    - [软件开发中的CI/CD](./content/技术杂篇/软件开发中的CI和CD.md)
+    - [软件开发中的CI/CD](./content/技术杂篇/项目工程相关/软件开发中的CI和CD.md)
     - [git 快捷键配置](./content/技术杂篇/git全局快捷键.md)
     - [vscode中配置自己的代码模板段](./content/技术杂篇/vscode中配置自己的代码模板段.md)
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
     - [项目中版本管理的git使用技巧](./content/技术杂篇/项目工程相关/项目中版本管理的git使用技巧.md)
-    - [python3-处理csv相关问题](./content/技术杂篇/python3-csv写入中文打开乱码的问题.md)
-
-### 数据库相关
-- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
-- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
+    - [python3-处理csv相关问题](./content/技术杂篇/python3-处理csv问题.md)
 
 ### 面试相关
-- [计算机网络面试题总结](./content/面试积累/计算机网络面试题总结.md)
+- [计算机网络面试题总结]()
 
 ### 翻译相关
 - [深入python3](./content/translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./content/translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
 - [The little redis book](./content/translate_book_prac/The_little_redis_book/The_Little_redis_book.md)--------------[【原文】](./content/translate_book_prac/The_little_redis_book/The+Little+redis+book.pdf)
 
-### 杂文
-- [自控中的诡异道德逻辑【自控之一】](./content/其他文章/自控中的诡异道德逻辑【自控之一】.md)
+### 乱写杂文
+- [自控中的诡异道德逻辑【自控之一】](./content/杂文/自控中的诡异道德逻辑【自控之一】.md)
+- [链表和字典的区别，就是你和考霸的区别](./content/杂文/链表和字典的区别，就是你和考霸的区别.md)
 
 ### 关于学习学习
 - []()
