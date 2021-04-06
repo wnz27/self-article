@@ -58,5 +58,5 @@ Selenium3(做各种浏览器) + Appium（做ios和安卓） + jenkins（自动�
 [Example-Demo-Demonstrate（selenium3）](design-example-description.md)
 
 #### 建议
-希望leader浏览一下RobotFramework，个人觉得有些抽象，可能会比selenium的学习成本高一些。
+浏览一下RobotFramework，个人觉得有些抽象，可能会比selenium的学习成本高一些。
 
