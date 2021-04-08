@@ -182,6 +182,7 @@ def test_login(self, usernamem, passward, assert_text):
 
 ## 常用UI测试流程
 [Demo里流程设计](concrete_page/demoLoginPage.py)
+[base_page抽象](base_page/basePage.py)
 ### 登录页面
 - 获取驱动
 - 登录测试url
