@@ -38,6 +38,8 @@
     - [软件开发中的CI/CD](./content/技术杂篇/项目工程相关/软件开发中的CI和CD.md)
     - [git 快捷键配置](./content/技术杂篇/git全局快捷键.md)
     - [vscode中配置自己的代码模板段](./content/技术杂篇/vscode中配置自己的代码模板段.md)
+    - [brew 安装出现license问题](./content/技术杂篇/brew_problem.md)
+    - [跨域问题（暂时未解决）](./content/技术杂篇/cros_problem.md)
 - Python相关
     - [pip加速设置](./content/技术杂篇/python相关/pip加速设置.md)
     - [GIL进程以及线程](./content/技术杂篇/python相关/GIL进程以及线程.md)
