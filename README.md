@@ -63,6 +63,8 @@
 ### 个人推荐
 - [书籍推荐](./content/Recommendation/RecommendationOfBooks.md)
 - [文章推荐](./content/Recommendation/RecommendationOfEssays.md)
+- 其他有趣推荐
+    - 他的这个仓库[one-python-craftsman](https://github.com/piglei/one-python-craftsman) 让我觉得找到了导师和知音！！！！
 
 ### 信息搜集记录
 - [中国投资机构信息筛选汇总](./content/信息搜集记录/中国投资机构信息筛选汇总.md)
