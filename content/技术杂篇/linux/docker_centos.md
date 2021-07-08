@@ -21,3 +21,6 @@ yum 安装好的某些应用在默`./configure`时如果出现了非期望的行
 #### Centos7提示netstat: command not found的解决办法
 ``` yum install net-tools ```
 
+#### 安装service
+yum -y install initscripts
+
