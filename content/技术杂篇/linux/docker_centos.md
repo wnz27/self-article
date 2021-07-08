@@ -18,3 +18,6 @@ ERROR: The certificate of ‘xxx’ was signed using an insecure algorithm.
 yum 安装好的某些应用在默`./configure`时如果出现了非期望的行为，可能往往是
 你的linux少了某些依赖~可以先从这入手
 
+#### Centos7提示netstat: command not found的解决办法
+``` yum install net-tools ```
+
