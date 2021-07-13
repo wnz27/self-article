@@ -56,7 +56,6 @@
 
 ### 乱写杂文
 - [自控中的诡异道德逻辑【自控之一】](./content/杂文/自控中的诡异道德逻辑【自控之一】.md)
-- [链表和字典的区别，就是你和考霸的区别](./content/杂文/链表和字典的区别，就是你和考霸的区别.md)
 
 ### 关于学习学习
 - []()
@@ -67,6 +66,7 @@
 - 其他有趣推荐
     - 他的这个仓库[one-python-craftsman](https://github.com/piglei/one-python-craftsman) 让我觉得找到了导师和知音！！！！
     - [前辈的 python/Golang 学习文档](https://python-web-guide.readthedocs.io/zh/latest/index.html)
+    - [Go leetcode 刷题指南，感谢前辈分享~](https://github.com/halfrost/LeetCode-Go)
 
 ### 信息搜集记录
 - [中国投资机构信息筛选汇总](./content/信息搜集记录/中国投资机构信息筛选汇总.md)
