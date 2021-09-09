@@ -34,7 +34,7 @@
     - [解决Mac安装应用系统提示已损坏的问题](./content/技术杂篇/solve_broken.md)
     - [vscode因权限阻止更新解决办法](./content/技术杂篇/vs_code.md)
     - [【mac下使用命令工具路径问题万能解决办法】](./content/技术杂篇/mac下使用命令工具路径问题万能解决办法.md)
-    - [jwt认证](./content/技术杂篇/jwt认证.py)
+    - [jwt认证](./content/技术杂篇/jwt认证.md)
     - [软件开发中的CI/CD](./content/技术杂篇/项目工程相关/软件开发中的CI和CD.md)
     - [git 快捷键配置](./content/技术杂篇/git全局快捷键.md)
     - [vscode中配置自己的代码模板段](./content/技术杂篇/vscode中配置自己的代码模板段.md)
