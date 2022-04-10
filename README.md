@@ -2,32 +2,13 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2019-12-14 10:29:50
- * @LastEditTime: 2022-03-18 15:19:05
+ * @LastEditTime: 2022-04-10 17:11:30
  * @FilePath: /self-article/README.md
  * @description: type some description
  -->
+ 
 # self-article
 >Original works 个人一些文章展示
-
-### 计算机网络(待更新~)
-- [白话计算机网络--自底向上--物理层](./content/计算机网络/白话计算机网络--自底向上--物理层.md)
-- [白话计算机网络--自底向上--数据链路层[1]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[1].md)
-- [白话计算机网络--自底向上--数据链路层[2]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[2].md)
-- [白话计算机网络--自底向上--数据链路层[3]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[3].md)
-
-### 算法相关练习小结
-- [缓存置换算法小结](./content/算法相关/缓存相关/缓存置换算法小结.md)
-
-### 数据库相关
-- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
-- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
-
-### 工作相关
-- [项目工程化的思考与总结](https://github.com/geeknical/projectized-coding)
-- [工作反思](./content/工作相关/反思.md)
-
-### Docker相关
-- []()
 
 ### 技术杂篇
 - 其他
@@ -47,18 +28,6 @@
     - [项目中版本管理的git使用技巧](./content/技术杂篇/项目工程相关/项目中版本管理的git使用技巧.md)
     - [python3-处理csv相关问题](./content/技术杂篇/python3-处理csv问题.md)
 
-### 面试相关
-- [计算机网络面试题总结]()
-
-### 翻译相关
-- [深入python3](./content/translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./content/translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
-- [The little redis book](./content/translate_book_prac/The_little_redis_book/The_Little_redis_book.md)--------------[【原文】](./content/translate_book_prac/The_little_redis_book/The+Little+redis+book.pdf)
-
-### 乱写杂文
-- [自控中的诡异道德逻辑【自控之一】](./content/杂文/自控中的诡异道德逻辑【自控之一】.md)
-
-### 关于学习学习
-- []()
 
 ### 个人推荐
 - [书籍推荐](./content/Recommendation/RecommendationOfBooks.md)
@@ -68,7 +37,38 @@
     - [前辈的 python/Golang 学习文档](https://python-web-guide.readthedocs.io/zh/latest/index.html)
     - [Go leetcode 刷题指南，感谢前辈分享~](https://github.com/halfrost/LeetCode-Go)
 
+### 乱写杂文
+- [自控中的诡异道德逻辑【自控之一】](./content/杂文/自控中的诡异道德逻辑【自控之一】.md)
+- 其他还有一些未整理
+
+### 计算机网络(待更新~)
+- [白话计算机网络--自底向上--物理层](./content/计算机网络/白话计算机网络--自底向上--物理层.md)
+- [白话计算机网络--自底向上--数据链路层[1]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[1].md)
+- [白话计算机网络--自底向上--数据链路层[2]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[2].md)
+- [白话计算机网络--自底向上--数据链路层[3]](./content/计算机网络/白话计算机网络--自底向上--数据链路层[3].md)
+
+### 算法相关练习小结
+- [~~缓存置换算法小结~~ 未完成](./content/算法相关/缓存相关/缓存置换算法小结.md)
+
+### 数据库相关
+- [MongoDB安装配置方法](./content/数据库相关/MongoDB/MongoDB安装配置方法.md)--------基于此篇[【mongodb】](./content/数据库相关/MongoDB/mongodb.pdf)文章编写
+- [终止redis-server的方法](./content/数据库相关/redis/终止redis-server方法.md)
+
+### 工作相关
+- [项目工程化的思考与总结(部分未完成)](https://github.com/geeknical/projectized-coding)
+
+### Docker相关
+- []()
+
+### ~~面试相关~~
+
+### 翻译相关
+- [深入python3 暂无时间，哭！😭](./content/translate_book_prac/Dive_into_Pyrhon3/Dive_into_Python3.md)------------[【原文】](./content/translate_book_prac/Dive_into_Pyrhon3/dive-into-python3.pdf)
+
+
+
 ### 信息搜集记录
+> 应该已经不具有时效性，18-19年搜集的应该是
 - [中国投资机构信息筛选汇总](./content/信息搜集记录/中国投资机构信息筛选汇总.md)
 - [杭州孵化器信息筛选汇总](./content/信息搜集记录/杭州孵化器信息筛选汇总.md)
 
