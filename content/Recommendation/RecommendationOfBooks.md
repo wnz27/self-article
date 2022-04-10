@@ -2,7 +2,7 @@
  * @Author: 27
  * @LastEditors: 27
  * @Date: 2021-10-29 03:44:51
- * @LastEditTime: 2022-04-10 23:39:52
+ * @LastEditTime: 2022-04-10 23:46:02
  * @FilePath: /self-article/content/Recommendation/RecommendationOfBooks.md
  * @description: type some description
 -->
@@ -34,4 +34,8 @@
 - **《Learning Dapr》** 于 2022.3 浏览完第一遍
 > ![](./book_img/learning_dapr.png)
 > 了解 dapr 基本思想 和 能力
+- **《程序员的自我修养》** 于 2022.4.10
+> ![](./book_img/程序员的自我修养.jpg)
 
+> 代码之外的经验，尤其产品相关及日常工作的智慧尤其共鸣
+- 
