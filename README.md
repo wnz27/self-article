@@ -33,7 +33,7 @@
 - [书籍推荐](./content/Recommendation/RecommendationOfBooks.md)
 - [文章推荐](./content/Recommendation/RecommendationOfEssays.md)
 - 其他有趣推荐
-    - 他的这个仓库[one-python-craftsman](https://github.com/piglei/one-python-craftsman) 让我觉得找到了导师和知音！！！！
+    - 他的这个仓库[one-python-craftsman](https://github.com/piglei/one-python-craftsman) 膜拜一下！！！
     - [前辈的 python/Golang 学习文档](https://python-web-guide.readthedocs.io/zh/latest/index.html)
     - [Go leetcode 刷题指南，感谢前辈分享~](https://github.com/halfrost/LeetCode-Go)
 
